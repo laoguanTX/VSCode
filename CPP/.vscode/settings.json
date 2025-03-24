@@ -1,0 +1,14 @@
+{
+    "editor.fontSize": 20,
+    "files.associations": {
+        "iostream": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "stdio.h": "c",
+        "iosfwd": "cpp",
+        "stdlib.h": "c",
+        "*.tcc": "c",
+        "unordered_map": "c",
+        "unordered_set": "c"
+    }
+}

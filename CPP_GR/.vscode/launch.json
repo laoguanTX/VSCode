@@ -1,0 +1,19 @@
+{
+  "configurations": [
+    {
+      "MIMode": "gdb",
+      "args": [],
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": true,
+      "miDebuggerPath": "F:\\MinGW\\mingw64\\bin\\gdb.exe",
+      "name": "single file debug",
+      "preLaunchTask": "ascii check",
+      "program": "${fileDirname}\\build\\${fileBasenameNoExtension}.exe",
+      "request": "launch",
+      "stopAtEntry": false,
+      "type": "cppdbg"
+    }
+  ],
+  "version": "0.2.0"
+}

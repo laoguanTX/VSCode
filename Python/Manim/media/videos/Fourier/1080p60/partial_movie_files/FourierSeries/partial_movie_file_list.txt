@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:E:/VSCode/Manim/media/videos/Fourier/1080p60/partial_movie_files/FourierSeries/3977891868_3441521007_223132457.mp4'
+file 'file:E:/VSCode/Manim/media/videos/Fourier/1080p60/partial_movie_files/FourierSeries/2852726489_742126486_3170670362.mp4'
+file 'file:E:/VSCode/Manim/media/videos/Fourier/1080p60/partial_movie_files/FourierSeries/2852726489_2408024828_135183220.mp4'
